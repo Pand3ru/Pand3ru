@@ -17,7 +17,6 @@ and yes, I wear my knee-high striped socks proudly."
 
 ## ⭐ Fun Facts
 - My socks have more stripes than my terminal has colors.
-- Currently working for SUSE
 - I have a very sassy blog
 - Destined to become a sysadmin...
 
